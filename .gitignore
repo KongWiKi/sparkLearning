@@ -1,2 +1,5 @@
 #忽略文件
 .idea
+/data
+/sample
+spark_test.py

@@ -1,4 +1,4 @@
-# Spark学习(目前为Pyspark)
+# Spark学习
 
 ## 1.Spark简单使用
 
